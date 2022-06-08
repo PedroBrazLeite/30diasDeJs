@@ -41,4 +41,4 @@ Créditos: [@wesbos](https://twitter.com/wesbos).
 - A funçao play que reproduz arquivos de audio
 - Reconhecer quais teclas estão sendo pressionadas
 
-### Voce pode testar este projeto aqui:
+### Voce pode testar este projeto aqui: https://drumsjs.vercel.app/
