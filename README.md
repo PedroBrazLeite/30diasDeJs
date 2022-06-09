@@ -54,6 +54,6 @@ Créditos: [@wesbos](https://twitter.com/wesbos).
 
 - a utilzar Date
 
-### Você pode testar este projeto aqui:
+### Você pode testar este projeto aqui: https://relogio-nine.vercel.app/
 
 #
