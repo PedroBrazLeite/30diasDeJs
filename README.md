@@ -30,8 +30,9 @@ Créditos: [@wesbos](https://twitter.com/wesbos).
 #
 
 - [Dia 01 - Bateria com Javascript](#id01)
+- [Dia 02 - Relogio com Javascript](#id02)
 
-## Desafio dia 01 - Bateria com Javascript
+## Desafio dia 01 - Bateria com Javascript <a name='id01'></a>
 
 ![Dia 01](/gifs/dia01.gif)
 
@@ -41,4 +42,18 @@ Créditos: [@wesbos](https://twitter.com/wesbos).
 - A funçao play que reproduz arquivos de audio
 - Reconhecer quais teclas estão sendo pressionadas
 
-### Voce pode testar este projeto aqui: https://drumsjs.vercel.app/
+### Você pode testar este projeto aqui: https://drumsjs.vercel.app/
+
+#
+
+## Desafio dia 02 - Relogio com Javascript <a name='id02'></a>
+
+![dia 02](/gifs/dia02.gif)
+
+#### O que eu aprendi
+
+- a utilzar Date
+
+### Você pode testar este projeto aqui:
+
+#
