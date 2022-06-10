@@ -31,6 +31,7 @@ Créditos: [@wesbos](https://twitter.com/wesbos).
 
 - [Dia 01 - Bateria com Javascript](#id01)
 - [Dia 02 - Relogio com Javascript](#id02)
+- [Desafio dia 03 - Mudando variaveis do CSS com Javascript](#id03)
 
 ## Desafio dia 01 - Bateria com Javascript <a name='id01'></a>
 
@@ -57,3 +58,15 @@ Créditos: [@wesbos](https://twitter.com/wesbos).
 ### Você pode testar este projeto aqui: https://relogio-nine.vercel.app/
 
 #
+
+## Desafio dia 03 - Mudando variaveis do CSS com Javascript <a name='id03'></a>
+
+![dia 03](/gifs/dia03.gif)
+
+#### O que eu aprendi
+
+- Alterar variaveis do css utilizando javascript
+- Utilizar o this
+- Criar meus proprios atributos para tags html
+
+### Você pode testar este projeto aqui:
